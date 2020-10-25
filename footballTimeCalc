@@ -1,0 +1,9 @@
+def convertFootballToReal(minutes):
+    return minutes * 2.5
+
+def _Interactive():
+    minutes = float(input("Please enter the current number of Football Minutes: "))
+    print("Converted time: ", convertFootballToReal(minutes))
+
+if __name__ == "__main__":
+    _Interactive()
