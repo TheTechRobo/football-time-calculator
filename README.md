@@ -8,3 +8,6 @@ I don't like football, but here's a calculator to convert from "football time" t
 ```
 
 Or, if you prefer it to be interactive, run `main.py`.
+
+# Todo
+Turn into an app with GUI.
