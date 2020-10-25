@@ -1,4 +1,4 @@
-def convertFootballToReal(original):
+def convertFootballTimeToReal(original):
     """
     parameter original: Original number
     """
