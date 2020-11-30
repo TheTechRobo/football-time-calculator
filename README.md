@@ -4,7 +4,8 @@ I don't like football, but here's a calculator to convert from "football time" t
 # Usage
 ```
 >>> from footballTimeCalculator import *
->>> calculateFootballTimeToReal(original_number)
+>>> calculateFootballTimeToReal(1)
+2.5
 ```
 
 Or, if you prefer it to be interactive, run `main.py`.
